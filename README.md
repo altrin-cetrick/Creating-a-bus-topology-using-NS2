@@ -79,7 +79,7 @@ $ns run
 ```
 
 ## OUTPUT
-![WhatsApp Image 2025-10-03 at 09 46 23_080e62f1](https://github.com/user-attachments/assets/628967e4-df91-49fa-a603-bae32bc115b4)
+![WhatsApp Image 2025-09-03 at 12 28 55 PM (1)](https://github.com/user-attachments/assets/98fc6529-9d39-480f-83c1-ee79fdfad75f)
 ## RESULT
 The simulation successfully demonstrates a bus topology setup and data transmission using NS2.
 
